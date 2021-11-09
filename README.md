@@ -1,5 +1,5 @@
 # PyLX-16A
-A Python library for controlling LewanSoul's LX-16A servos
+A Python library for controlling LewanSoul's LX-16A servos.
 
 Files:
 * readMe.md (you're reading it right now)
@@ -7,5 +7,7 @@ Files:
 * documentation.md (in progress)
 * lx16a.py (the actual library, import it into your project using `from lx16a import *`)
 * helloWorld.py (a Hello World program for the servos, it rotates two servos in out-of-phase sine waves)
+
+Enjoy a preview of the dancing robot in [this video](https://youtu.be/XcCokht0tNE)!
 
 In collaboration with @debbie-leung
