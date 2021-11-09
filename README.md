@@ -7,3 +7,5 @@ Files:
 * documentation.md (in progress)
 * lx16a.py (the actual library, import it into your project using `from lx16a import *`)
 * helloWorld.py (a Hello World program for the servos, it rotates two servos in out-of-phase sine waves)
+
+In collaboration with @debbie-leung
